@@ -1,9 +1,6 @@
 # Task 1: Develop a HTTP Microservice to display all trains in the next 12 hours with their seat availability & pricing
 
 # Output:
-<img width="1000" alt="Screenshot" src="/Output/Screenshot from 2023-08-18 20-18-30.png">
-<img width="1000" alt="Screenshot" src="/Output/Screenshot from 2023-08-18 20-20-25.png">
-<img width="1000" alt="Screenshot" src="/Output/Screenshot from 2023-08-18 20-22-15.png">
 
 # Tech Used
  <div style="display: flex;">
@@ -20,14 +17,7 @@
 # Task 2: Develop Number Management HTTP Microservice
 
 # Output:
-<img width="1000" alt="Screenshot" src="/Output/Screenshot from 2023-08-18 19-23-46.png">
-# Output:
 
-<img width="1000" alt="Screenshot" src="/Output/Screenshot from 2023-08-18 19-25-47.png">
-
-<img width="1000" alt="Screenshot" src="/Output/Screenshot from 2023-08-18 19-30-25.png">
-
-<img width="1000" alt="Screenshot" src="/Output/Screenshot from 2023-08-18 19-30-59.png">
 
 # Tech Used
  <div style="display: flex;">
